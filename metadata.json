@@ -1,0 +1,6 @@
+{
+  "name": "FTNDNS AI - ISP & Network Operations Platform",
+  "description": "Enterprise autonomous network operations, Smart NOC, real-time fiber GIS telemetry, MikroTik & OLT management, and conversation compiler.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
